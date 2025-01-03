@@ -54,11 +54,13 @@ footer{
 
 .fa-brands:hover{
     color:var(--bgOrange);
-    transition:1.2s;
+    transition:0.8s;
+    cursor:pointer;
 }
 
 .fa-regular:hover{
     color:var(--bgOrange);
-    transition:1.2s;
+    transition:0.8s;
+    cursor:pointer;
 }
 
