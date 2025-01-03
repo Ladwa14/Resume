@@ -32,7 +32,7 @@ footer{
   .link-wrapper{
     display:flex;
     gap:1.2rem;
-    font-size: 30px;
+    font-size: 25px;
   }
   
   .link-wrapper div a{
@@ -49,7 +49,7 @@ footer{
     display:flex;
     gap:1rem;
     color: white;
-    font-size:30px;
+    font-size:25px;
   }
 
 .icon-wrapper:hover{
