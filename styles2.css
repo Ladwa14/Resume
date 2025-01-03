@@ -49,6 +49,7 @@ footer{
     display:flex;
     gap:1rem;
     color: white;
+    width:20px;
   }
 
 .icon-wrapper:hover{
