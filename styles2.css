@@ -57,3 +57,8 @@ footer{
     transition:1.2s;
 }
 
+.fa-regular:hover{
+    color:var(--bgOrange);
+    transition:1.2s;
+}
+
