@@ -52,7 +52,7 @@ footer{
     font-size:25px;
   }
 
-.icon-wrapper:hover{
+.fa-brands:hover{
     color:var(--bgOrange);
     transition:1.2s;
 }
